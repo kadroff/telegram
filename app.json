@@ -1,6 +1,6 @@
 {
   "name": "Telegram by Kadrov",
   "description": "The best Telegram ever",
-  "repository": "https://github.com/heroku/php-getting-started",
+  "repository": "https://github.com/kadroff/telegram.git",
   "addons": []
 }
